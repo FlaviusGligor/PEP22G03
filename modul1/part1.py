@@ -18,10 +18,14 @@
 # print('#'*30)
 # print('#',' '*28,'#',sep='')
 # print('#'*30)
-
-my_value = 'My Object'
-my_value = 15
-my_value2 = 10
-# print(my_value)
-
-print(my_value * my_value2)
+#
+# my_value = 'My Object'
+# my_value = 15
+# my_value2 = 10
+# # print(my_value)
+#
+# print(my_value * my_value2)
+#
+# my_value = "#"* 30
+# my_value1 = "#" + ' '*28 + "#"
+# print(my_value,my_value1,my_value,sep='\n')
